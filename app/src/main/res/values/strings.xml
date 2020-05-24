@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Registration Form</string>
+    <string name="welcome"></string>
+    <string name="click_to_continue">Click To Continue</string>
+
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="user_regestration_form">User Registration Form</string>
+    <string name="next_but_img">next_but_img</string>
+    <string name="enter_your_email_address">Enter Your Email Address</string>
+    <string name="enter_your_phone_number">Enter Your Phone Number</string>
+    <string name="enter_your_address">Enter Your Address</string>
+    <string name="choose_a_new_password">Choose A New Password</string>
+    <string name="next_arrow">next_arrow</string>
+</resources>
